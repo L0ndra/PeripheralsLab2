@@ -15,6 +15,7 @@ namespace PeripheralsLab2
         public Form1()
         {
             InitializeComponent();
+
         }
 
         private void panel4_Paint(object sender, PaintEventArgs e)
