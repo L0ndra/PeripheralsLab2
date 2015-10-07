@@ -42,6 +42,8 @@ namespace PeripheralsLab2
         private void button2_Click(object sender, EventArgs e)
         {
             lineShape16.BorderColor = Color.Black;
+            panel4.BackColor = Color.Black;
+            lineShape17.BorderColor = Color.Black;
         }
     }
 }
